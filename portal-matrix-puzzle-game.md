@@ -1,0 +1,2 @@
+# Portal x Matrix Puzzle Game
+This is a game where the puzzles would be individual chambers like Portal. In this game, solving the puzzle involves modifying the "code" of the reality around you, Matrix-style. However, you could only modify the pieces of code that you have direct line of sight to. You also cannot move the pieces such that all the code pieces to modify are in sight at all times, you must modify the pieces in place, or change the inputs and outputs.
