@@ -1,0 +1,2 @@
+# AI Upscaler & Styler
+The idea here is to train an AI/ML setup to upscale an image while also copying the style of a human. The main driving force behind this was to make new upscaled textures for Minecraft, in the style of the [Canvas Resource Pack](https://www.planetminecraft.com/texture-pack/canvas-minecraft-in-brush/). I wanted to train a ML setup to generate textures that the pack creator hadn't managed to draw themselves yet.

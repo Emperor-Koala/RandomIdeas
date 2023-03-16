@@ -11,3 +11,4 @@ The list of ideas and links to their respective files can be found below.
 * [OpenApi Spec to Flutter code generator](openapi-flutter-generator.md)
 * [Dungeon Generation Minecraft Server Plugin](dungeon-gen-mc-plugin.md)
 * [Portal x Matrix Puzzle Game](portal-matrix-puzzle-game.md)
+* [AI Upscaler & Styler](ai-upscal-with-style.md)
