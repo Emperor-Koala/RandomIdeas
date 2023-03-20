@@ -12,3 +12,4 @@ The list of ideas and links to their respective files can be found below.
 * [Dungeon Generation Minecraft Server Plugin](dungeon-gen-mc-plugin.md)
 * [Portal x Matrix Puzzle Game](portal-matrix-puzzle-game.md)
 * [AI Upscaler & Styler](ai-upscal-with-style.md)
+* [Decked Out](decked-out-game.md)
