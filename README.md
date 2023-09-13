@@ -14,3 +14,4 @@ The list of ideas and links to their respective files can be found below.
 * [AI Upscaler & Styler](ai-upscale-with-style.md)
 * [Decked Out](decked-out-game.md)
 * [Minecraft Claim System](minecraft-claim-system.md)
+* [Librarian Lectern Influence Mod](librarian-lectern-influence-mod.md)
