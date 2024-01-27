@@ -18,3 +18,4 @@ The list of ideas and links to their respective files can be found below.
 * [Game Engine XML Dialog System](game-engine-xml-dialog-system.md)
 * [Minecraft Tuned Sculk Sensor](minecraft-tuned-sculk-sensor.md)
 * [Peggle VS](peggle-vs.md)
+* [Wynncraft Item Comparrison Mod](wynncraft-item-comparrison-mod.md)
