@@ -19,4 +19,6 @@ The list of ideas and links to their respective files can be found below.
 * [Minecraft Tuned Sculk Sensor](minecraft-tuned-sculk-sensor.md)
 * [Peggle VS](peggle-vs.md)
 * [Wynncraft Item Comparrison Mod](wynncraft-item-comparrison-mod.md)
+* [Flutter Video Player Background Controls](flutter-video-player-background-controls.md)
+* [MLS Email Notification Scraper](mls-email-scraper.md)
 * [Laravel Spigot Permissions](laravel-spigot-perms.md)

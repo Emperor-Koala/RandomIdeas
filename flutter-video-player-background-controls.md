@@ -1,0 +1,5 @@
+# Flutter Video Player Background Controls
+
+The main thing here is just a plugin that either wraps or forks the Flutter team's `video_player` package, and adds to it native background audio controls and/or Picture-in-Picture. The package itself is fully capable of playing pure audio, but even if it weren't, clearly playing videos in the background (i.e. a video podcast), or in Picture-in-Picture while performing other tasks, is a pretty great feature (see Youtube Premium). 
+
+Unfortunately, there is not currently a way to make use of these features using the base package. There are other packages that exist which add these features (e.g. [`better_player_plus`](https://github.com/SunnatilloShavkatov/better_player_plus)), however all examples I have seen are not forks of the original player. Instead, they copy the code into their own project and modify it, without maintaining any link to the upstream package. 
