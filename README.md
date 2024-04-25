@@ -22,3 +22,4 @@ The list of ideas and links to their respective files can be found below.
 * [Flutter Video Player Background Controls](flutter-video-player-background-controls.md)
 * [MLS Email Notification Scraper](mls-email-scraper.md)
 * [Laravel Spigot Permissions](laravel-spigot-perms.md)
+* [Mobile Randomizer Pack Tracker](mobile-randomizer-pack-tracker.md)
