@@ -13,4 +13,4 @@ There are a few specific goals
     2. Check if the user's role allows this permission
     3. Return the default value of the permission
 
-In the ideal, this would all run through Laravel's guards, allowing permission checks to work in Blade templates as well.
+In the ideal, this would all run through Laravel's Gates, allowing permission checks to work in Blade templates as well.
