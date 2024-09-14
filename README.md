@@ -23,3 +23,4 @@ The list of ideas and links to their respective files can be found below.
 * [MLS Email Notification Scraper](mls-email-scraper.md)
 * [Laravel Spigot Permissions](laravel-spigot-perms.md)
 * [Mobile Randomizer Pack Tracker](mobile-randomizer-pack-tracker.md)
+* [OpenAPI Laravel Boilerplate Generator](openapi-laravel-boilerplate-generator.md)
