@@ -26,3 +26,4 @@ The list of ideas and links to their respective files can be found below.
 * [OpenAPI Laravel Boilerplate Generator](openapi-laravel-boilerplate-generator.md)
 * [TrackingTime Clone](trackingtime-clone.md)
 * [Alarmed App Rebuild](alarmed-app-rebuild.md)
+* [EmoTracker Clone](emotracker-clone.md)

@@ -1,0 +1,3 @@
+# EmoTracker Clone
+
+The goal here is simply to provide a fully open source _and cross-platform_ version of [EmoTracker](https://emotracker.net/). It is super useful for tracking items in ramdomizers across a plethora of games, but the program is only available for Windows, and getting it running in Wine is kind of a pain, especially when the icons fail to load. Instead, I would like to provide a custom version of this software, one that is completely open-source and customizable, and that can be cross-compiled to Windows, macOS and Linux. There are a number of ways this could be accomplished, using something like Electron/Tauri to build a web-app style version, or using something like Flutter.
