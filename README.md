@@ -27,3 +27,4 @@ The list of ideas and links to their respective files can be found below.
 * [TrackingTime Clone](trackingtime-clone.md)
 * [Alarmed App Rebuild](alarmed-app-rebuild.md)
 * [EmoTracker Clone](emotracker-clone.md)
+* [Custom Programming Language](custom-language.md)
