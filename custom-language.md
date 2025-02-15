@@ -15,6 +15,7 @@ The main things would be:
 * Inheritance
 * Interfaces
 * Ability to either extend multiple parent classes or provide default implementations for Interfaces
+* lambda functions
 * ...
 
 This list will expand over time as I come across other language features that I would want to include.
