@@ -11,6 +11,10 @@ The main things would be:
 * list comprehension from Python
 * named arguments using the same syntax as Dart
 * Strict typing (syntax like Java, types first)
+* Java-Style Enums
+* Inheritance
+* Interfaces
+* Ability to either extend multiple parent classes or provide default implementations for Interfaces
 * ...
 
 This list will expand over time as I come across other language features that I would want to include.
