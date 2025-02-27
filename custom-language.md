@@ -16,6 +16,8 @@ The main things would be:
 * Interfaces
 * Ability to either extend multiple parent classes or provide default implementations for Interfaces
 * lambda functions
+* pipelines
+* syntax fir manipulating the same object multiple times (like the double-dot syntax in Dart or the fat-pipes sytax in Civet)
 * ...
 
 This list will expand over time as I come across other language features that I would want to include.
