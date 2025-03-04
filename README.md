@@ -29,3 +29,4 @@ The list of ideas and links to their respective files can be found below.
 * [EmoTracker Clone](emotracker-clone.md)
 * [Custom Programming Language](custom-language.md)
 * [Eloquent Dart Port](eloquent-dart-port.md)
+* [Flutter Native Bindings](flutter-native-bindings.md)
