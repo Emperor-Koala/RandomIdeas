@@ -30,3 +30,4 @@ The list of ideas and links to their respective files can be found below.
 * [Custom Programming Language](custom-language.md)
 * [Eloquent Dart Port](eloquent-dart-port.md)
 * [Flutter Native Bindings](flutter-native-bindings.md)
+* [Laravel "Repackaged"](laravel-repackaged.md)
