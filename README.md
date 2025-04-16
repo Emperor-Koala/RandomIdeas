@@ -31,3 +31,4 @@ The list of ideas and links to their respective files can be found below.
 * [Eloquent Dart Port](eloquent-dart-port.md)
 * [Flutter Native Bindings](flutter-native-bindings.md)
 * [Laravel "Repackaged"](laravel-repackaged.md)
+* [MAMP Clone](mamp-clone.md)
