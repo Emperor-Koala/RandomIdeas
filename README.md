@@ -32,3 +32,5 @@ The list of ideas and links to their respective files can be found below.
 * [Flutter Native Bindings](flutter-native-bindings.md)
 * [Laravel "Repackaged"](laravel-repackaged.md)
 * [MAMP Clone](mamp-clone.md)
+* [Mario Party/100% OJ Builder](mario-party-100-oj.md)
+* [ADHD/Anxiety RPG](adhd-anxiety-rpg.md)
