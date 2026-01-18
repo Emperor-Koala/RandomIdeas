@@ -1,0 +1,3 @@
+#  EPUB.js to React Native Components
+
+I would like if there was a more natural way to display ebooks such as epub files in React Native. Right now, the only way to realistically do that is to use a webview with some custom HTML and JS to load the epub file and the epubjs library, then use some of the communication features between webview and React Native to manage things. This feels like a hacky workaround. Epub.js has the ability to provide it with custom "Manager" and "View" instances, it stands to reason that someone could write a custom library that could make use of that ability to render an epub into React Native components based on the information provided.
